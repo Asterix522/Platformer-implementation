@@ -12,7 +12,7 @@ class Platformer extends Phaser.Scene {
         this.PARTICLE_VELOCITY = 50;
         this.SCALE = 2.0;
         this.collectedCoins = 27;
-        
+        //test for commit
     }
 
     create() {
